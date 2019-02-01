@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "864211634264",
+    "firebase_url": "https://ratemyfirstassginment.firebaseio.com",
+    "project_id": "ratemyfirstassginment",
+    "storage_bucket": "ratemyfirstassginment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864211634264:android:4cded3917c109615",
+        "android_client_info": {
+          "package_name": "ratemysigning.thesohankathait.firstassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864211634264-edh14p2adptolj3dvn4kgdla79hqi1q4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ratemysigning.thesohankathait.firstassignment",
+            "certificate_hash": "cb2faf56dca8ccbae4c59f7c468e78f26f55e341"
+          }
+        },
+        {
+          "client_id": "864211634264-qrf7k5datjoekhtc4tar4t86jhfs5sku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkny4iMfsBhnHSYej_b6u0cIII-0hIaNM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864211634264-qrf7k5datjoekhtc4tar4t86jhfs5sku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
